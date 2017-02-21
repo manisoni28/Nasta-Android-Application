@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/totalcost"
+        android:orderInCategory="100"
+        android:title="Rs.500"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/checkout"
+        android:orderInCategory="100"
+        android:title="Check out"
+        app:showAsAction="always" />
+</menu>

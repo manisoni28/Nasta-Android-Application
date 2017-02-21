@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1000894919836",
+    "firebase_url": "https://nasta-4d0b3.firebaseio.com",
+    "project_id": "nasta-4d0b3",
+    "storage_bucket": "nasta-4d0b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000894919836:android:bb20bae060e623ef",
+        "android_client_info": {
+          "package_name": "com.tdevelopers.nasta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000894919836-ela5o7hcebmo6msh60qppvjm4epjv062.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUumhlKA0WRV3tZoF7pmB7uEOosECAyLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
