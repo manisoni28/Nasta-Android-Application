@@ -22,6 +22,8 @@ User can order food online and see the status in real time
 
 <th><img width="500px" height="500px" src="Images/1.jpeg"/></th>
 <th><img width="500px" height="500px" src="Images/2.jpeg"/></th>
+</tr>
+<tr>
 <th><img width="500px" height="500px" src="Images/3.jpeg"/></th>
 
 <th><img width="500px" height="500px" src="Images/4.jpeg"/></th>
